@@ -10,7 +10,7 @@ Python client demo to call floor plan parser service is provided. Contact unives
 ## Demo
 Play with the demo page to see if the result is useful to your need.
 
-[demo page address](http://222.67.185.0:9595/floor_plan_parser_demo)
+[demo page address](http://192.168.31.61:9595/floor_plan_parser_demo)
 
 Notice: the demo page call is limited to 10 times per day.
 
