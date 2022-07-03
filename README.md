@@ -5,7 +5,7 @@ FloorPlanParser service and demo presents high accuracy and intelligent to vecto
 ![image](https://github.com/universewill/FloorPlanParser/blob/main/771.jpg.jpg)
 
 ## Client
-Python client demo to call floor plan parser service is provided. Contact univese.will@gmail.com to get an account.
+Python client demo to call floor plan parser service is provided. Contact universe.will@gmail.com to get an account.
 
 ## Demo
 Play with the demo page to see if the result is useful to your need.
