@@ -17,7 +17,7 @@ with open(dir, 'rb') as f:
 # call house parser service to get json result
 # you should change the 'xxx' to your account (contact universe.will@gmail.com to buy an account)
 paras = {'image':(None, data), 'user_name':(None, 'xxx'), 'password':(None, 'xxx')}
-ret = requests.post('http://192.168.31.61:9595/floor_plan_parser_json', files=paras)
+ret = requests.post('http://101.80.87.242/:9595/floor_plan_parser_json', files=paras)
 
 print('house parser json result:')
 print(ret.text)
